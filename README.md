@@ -1,16 +1,30 @@
-### Hi there 👋
+### HELLO THERE 👋
 
-<!--
-**4Marsha1/4Marsha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<p>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=4Marsha1&hide=stars&show_icons=true&theme=tokyonight&line_height=42">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Marsha1&count_private=true&theme=tokyonight">
 
-Here are some ideas to get you started:
+</p>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Spotify Playing 🎧
+
+[<img align='center' src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31m62qmxje45gzatufyoaz4p2khi?si=90867b8e7c1c4b10)
+
+<br/>
+
+### Contact: 
+
+[<img align="left" alt="Facebook" width="30px" src="https://img.icons8.com/fluent/96/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/fluent/96/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="Instagram" width="30px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/fluent/96/000000/twitter.png"/>][twitter]
+<br/>
+
+[twitter]: https://twitter.com/Abhishek0696
+[facebook]: https://www.facebook.com/bharadwaz.abhishek/
+[instagram]: https://www.instagram.com/bharadwaz_abhishek/?hl=en
+[linkedin]: https://www.linkedin.com/in/abhishek-bharadwaz-458993192/
+
