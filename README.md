@@ -1,19 +1,15 @@
 ### HELLO THERE 👋
 
-<br/>
 <p>
   
   <img src="https://github-readme-stats.vercel.app/api?username=4Marsha1&hide=stars&show_icons=true&theme=tokyonight&line_height=42">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Marsha1&count_private=true&theme=tokyonight">
 
 </p>
-<br/>
 
 ### Spotify Playing 🎧
 
 [<img align='center' src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31m62qmxje45gzatufyoaz4p2khi?si=90867b8e7c1c4b10)
-
-<br/>
 
 ### Contact: 
 
