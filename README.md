@@ -1,5 +1,7 @@
 ### HELLO THERE 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=4Marsha1&label=Profile%20views&color=1338BF&style=flat" alt="" /> </p>
+
 <p>
   
   <img src="https://github-readme-stats.vercel.app/api?username=4Marsha1&hide=stars&show_icons=true&theme=tokyonight&line_height=42">
