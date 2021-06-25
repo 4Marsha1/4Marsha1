@@ -1,6 +1,6 @@
 ### HELLO THERE 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4Marsha1&label=Profile%20views&color=1338BF&style=flat" alt="" /> </p>
+<p align="center"> <img width='30px' src="https://komarev.com/ghpvc/?username=4Marsha1&label=Profile%20views&color=1338BF&style=flat" alt="" /> </p>
 
 <p>
   
