@@ -9,10 +9,6 @@
 
 </p>
 
-### Spotify Playing 🎧
-
-[<img align='center' src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31m62qmxje45gzatufyoaz4p2khi?si=90867b8e7c1c4b10)
-
 ### Contact: 
 
 [<img align="left" alt="Facebook" width="30px" src="https://img.icons8.com/fluent/96/000000/facebook-new.png" />][facebook]
