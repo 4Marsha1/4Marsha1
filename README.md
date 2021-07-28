@@ -1,6 +1,6 @@
 ### HELLO THERE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<p align="center"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky) </p>
+<p align="center"> <img width='170px' src="https://komarev.com/ghpvc/?username=4Marsha1&label=Profile%20views&color=1338BF&style=flat" alt="" /> </p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=4Marsha1&show_icons=true&theme=tokyonight&locale=en" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=4Marsha1&show_icons=true&theme=tokyonight&locale=en&layout=compact"  /><img src="https://github-readme-streak-stats.herokuapp.com?user=4Marsha1&theme=tokyonight" />
 </p>
