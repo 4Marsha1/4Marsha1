@@ -1,6 +1,6 @@
-### HELLO THERE 👋
+### HELLO THERE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<p align="center"> <img width='170px' src="https://komarev.com/ghpvc/?username=4Marsha1&label=Profile%20views&color=1338BF&style=flat" alt="" /> </p>
+<p align="center"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky) </p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=4Marsha1&show_icons=true&theme=tokyonight&locale=en" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=4Marsha1&show_icons=true&theme=tokyonight&locale=en&layout=compact"  /><img src="https://github-readme-streak-stats.herokuapp.com?user=4Marsha1&theme=tokyonight" />
 </p>
@@ -8,7 +8,8 @@
 
 ### Contact: 
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-bharadwaz-458993192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="mailto:abhishekbharadwaz22@gmail.com" target="blank"><img align="center" width="32px" height="32px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href="https://www.linkedin.com/in/abhishek-bharadwaz-458993192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="27" width="30" /></a>
 <a href="https://www.leetcode.com/_Marsha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/marshal06969/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/443832280012816386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
