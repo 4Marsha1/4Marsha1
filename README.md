@@ -27,8 +27,8 @@
 <hr/>
 <br/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=4Marsha1&show_icons=true&theme=tokyonight&locale=en&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=4Marsha1&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=4Marsha1&show_icons=true&theme=tokyonight&locale=en&hide_border=false" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=4Marsha1&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=false"  /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=4Marsha1&bg_color=1A1B27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=4Marsha1&bg_color=1A1B27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=false)  
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
