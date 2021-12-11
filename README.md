@@ -2,7 +2,7 @@
 
 <p align="center"> <img width='170px' src="https://komarev.com/ghpvc/?username=4Marsha1&label=Profile%20views&color=1338BF&style=flat" alt="" />     <a href="https://drive.google.com/file/d/1Me9ef0lfN8MSkutnKYtx8W_zG557rjmG/view?usp=sharing" target="blank"><img width="195px" src="https://img.shields.io/badge/Resume-ViewInDrive-brightgreen" alt="abhishek bharadwaz" /></a></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4Marsha1&theme=tokyonight" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4Marsha1&theme=tokyonight&hide_border=true" /></p>
 
 <br/>
 <hr/>
@@ -27,8 +27,8 @@
 <hr/>
 <br/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=4Marsha1&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Marsha1&layout=compact&show_icons=true&theme=tokyonight&langs_count=10"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=4Marsha1&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Marsha1&layout=compact&show_icons=true&theme=tokyonight&langs_count=10&hide_border=true"  /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=4Marsha1&bg_color=1A1B27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=false)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=4Marsha1&theme=react-dark&area=true&hide_border=true)  
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
