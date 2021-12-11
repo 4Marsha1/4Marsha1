@@ -27,7 +27,7 @@
 <hr/>
 <br/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=4Marsha1&show_icons=true&theme=tokyonight&locale=en&hide_border=false" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=4Marsha1&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=false"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=4Marsha1&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Marsha1&layout=compact&show_icons=true&theme=tokyonight&langs_count=10"  /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=4Marsha1&bg_color=1A1B27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=false)  
 
