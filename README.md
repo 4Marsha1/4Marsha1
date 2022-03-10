@@ -9,15 +9,9 @@
 
 ### Contact: 
 <p align="left">
-<a href="mailto:abhishekbharadwaz22@gmail.com" target="blank"><img align="center" width="32px" height="32px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-<a href="https://www.linkedin.com/in/abhishek-bharadwaz-458993192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="27" width="30" /></a>
-<a href="https://www.leetcode.com/_Marsha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/marshal06969/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/443832280012816386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/31m62qmxje45gzatufyoaz4p2khi" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/Abhishek0696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://www.facebook.com/bharadwaz.abhishek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bharadwaz_abhishek/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="mailto:abhishekbharadwaz22@gmail.com" target="blank"><img align="center" width="40px" height="40px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href="https://www.linkedin.com/in/abhishek-bharadwaz-458993192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30px" width="30px" /></a>
+<a href="https://www.leetcode.com/_Marsha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30px" width="30px" /></a>
 </p>
 
 ### Languages & Tools: 
