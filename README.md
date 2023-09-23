@@ -27,9 +27,18 @@
 </p>
 <hr/>
 <br/>
-<!---
+-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=4Marsha1&count_private=true&include_all_commits=false&show_icons=true&theme=tokyonight&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Marsha1&layout=compact&show_icons=true&theme=tokyonight&langs_count=10&hide_border=true"  /></p>
---->
+-
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=4Marsha1&theme=discord)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=4Marsha1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4Marsha1&theme=tokyo-night&hide_border=true)  
 
